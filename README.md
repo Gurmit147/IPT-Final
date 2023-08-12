@@ -1,1 +1,1 @@
-Download and run the file in Apache Netbeans. No need to manually add database because database coding is already inserted in the coding
+Download and run the file in Apache Netbeans. No need to manually add database because database coding is already inserted in the coding. Make sure to turn on your xampp
